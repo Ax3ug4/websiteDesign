@@ -1,0 +1,121 @@
+/* Genaral */
+
+
+h1 {
+    text-align: left;
+}
+ 
+h3 {
+    text-decoration: underline;
+}
+
+
+/* Header */
+
+.section {
+    border: 2px solid #7d7dc9;
+    margin: 10px;
+}
+
+/* Section for color */
+div {
+    display: block;
+
+}
+
+.color-section {
+    width: 100%;
+    display: inline;
+    width: 32%;
+    margin: 100px;
+    min-height: 100px;
+    padding-left: 10px;
+}
+.color-name {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.color-use {
+    font-family: 'Zen Loop', cursive;
+    text-align: center;
+}
+
+.background {
+    background-color: #76eec6;
+    display: inline-block;
+    
+    
+}
+
+.banner {
+    background-color: #e52b50;
+    display: inline-block;
+    margin: 5px;
+}
+
+.important {
+    background-color: #f0f8ff;
+    display: inline-block;
+    margin: 5px;
+}
+
+.links {
+    background-color: #ffb7c5;
+    display: inline-block;
+    margin: 5px;
+}
+
+/* sectyion for font */
+.font-section {
+    width: 45%;
+    display: inline;
+}
+
+.Macondo {
+    font-family: 'Macondo', cursive;
+}
+
+.Quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.ZenLoop {
+    font-family: 'Zen Loop', cursive;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Section for type style */
+.style-section {
+    width: 45%;
+    display: inline-block;
+}
+
+.H1 {
+    font-weight: 700;
+    font-size: 26;
+    font-family: 'Zen Loop', cursive;
+}
+
+.H2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+}
+.p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Macondo', cursive;
+}
